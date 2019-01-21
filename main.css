@@ -1,0 +1,110 @@
+#canvas {
+  width: 400px;
+  height: 400px;
+  background-color: ivory;
+  margin: 0 auto;
+  box-shadow: 15px 15px 10px gray;
+}
+
+.brown {
+  height: 75%;
+  width: 100%;
+  background-color: brown;
+}
+
+#big-rectangle {
+  height:100%;
+  width:75%;
+  background-color: rgba(0, 219, 204, 0.9);
+  float: right;
+}
+
+#first-divider {
+  height:100%;
+  width:3%;
+}
+
+.black{
+  float:right;
+  background-color: rgba(0, 255, 255, 1);
+}
+
+.right{
+  float:right;
+}
+
+#first-column {
+  height: 100%;
+  width: 22%;
+  background-color: rgba(0, 146, 204, 0.9);
+}
+
+#second-divider {
+  height: 3%;
+  width: 100%;
+}
+
+#first-medium-rectangle {
+  height: 48.5%;
+  width: 100%;
+}
+#second-medium-rectangle {
+  height: 48.5%;
+  width: 100%;
+}
+
+#second-row {
+  height: 3%;
+  width: 100%;
+}
+
+#third-row{
+  width:100%;
+  height:25%;
+  background-color: rgba(0, 60, 204, 0.9);
+}
+
+#third-divider{
+  float:right;
+  width:5%;
+  height:91%;
+  
+}
+
+#right-top{
+  float:right;
+  width:60%;
+  height:40%;
+}
+
+.blue{
+  background-color: rgba(0, 60, 101, 0.9);
+}
+
+#fourth-divider{
+ width:100%;
+ height:10%;
+}
+
+#right-bot{
+  float:right;
+  width:60%;
+  height:50%;
+}
+
+.yellow{
+ background-color: rgba(0, 60, 101, 0.9);
+}
+
+#last-column{
+  float:right;
+  width:70%;
+  height:91%;
+ background-color: rgba(0, 255, 255, 0.9);
+}
+
+#fifth-divider{
+  float:right;
+  width:3%;
+  height:91%;
+}
