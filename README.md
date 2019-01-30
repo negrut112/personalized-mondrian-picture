@@ -37,7 +37,7 @@
 
 <p>First id represent the surface where I’m working with following characteristics:</p>
 
-<pre><code>#canvas {<br>
+<pre><code>#canvas {
 width: 400px;<br>
 height: 400px;<br>
 background-color: ivory;<br>
@@ -46,6 +46,7 @@ box-shadow: 15px 15px 10px gray;<br>
 }</code></pre>
 
 <p>Further for the rest of id-s I described the color, position and their sizes expressed in percents. For ex:</p>
+
 <pre><code>#first-column {<br>
 height: 100%;<br>
 width: 22%;<br>
