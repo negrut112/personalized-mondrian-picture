@@ -31,7 +31,7 @@
 &lt;div id=“last-column” &gt;&lt;/div&gt;<br>
 &lt;div id=“fifth-divider” class=“black”&gt;&lt;/div&gt;<br>
 &lt;/div&gt;<br>
-&lt;/body&gt;</code></rep>
+&lt;/body&gt;</code></pre>
 
 ## CSS
 
